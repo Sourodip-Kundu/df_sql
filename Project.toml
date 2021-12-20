@@ -1,0 +1,9 @@
+name = "df_sql"
+uuid = "0f5ed735-84d7-4546-9c27-c8d7f6f07290"
+authors = ["Sourodip Kundu <kundu.sourodip@mahindra.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
+TableIO = "8545f849-0b94-433a-9b3f-37e40367303d"
