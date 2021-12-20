@@ -18,7 +18,7 @@ function _clean_col_name(col)
 
     if pcol != column
         
-        # @warn string("Column name ", col , " is not in SQL standard column name, name is modified")
+        
         push!(list1, col)
     end
 
