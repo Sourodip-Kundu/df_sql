@@ -6,8 +6,11 @@ df_sql helps to push the CSV file to the PostgreSQL database.
 
 df_sql.to_sql(df, conn, tabel_name)
 
-df: DataFrame 
+<ul>
+  <li>df: DataFrame</li> 
 
-conn: Postgre connection using Libpq
+  <li>conn: Postgre connection using Libpq</li>
 
-table_name: Name of the table 
+  <li>table_name: Name of the table</li>
+  
+ </ul>
